@@ -1,0 +1,6 @@
+deap
+matplotlib
+tensorflow==1.15.0
+streamlit
+opencv-python
+numpy
